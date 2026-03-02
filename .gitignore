@@ -1,0 +1,21 @@
+# Ignorar variables de entorno
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Mac OS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# General
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
