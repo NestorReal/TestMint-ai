@@ -2,7 +2,7 @@
 
 **Autor**: Nestor Real
 
-TestMint.ai es un microservicio diseñado para generar **casos de prueba estructurados** automáticamente a partir de **Historias de Usuario (User Stories)** utilizando Inteligencia Artificial (OpenAI o Gemini) integrada con `instructor` para forzar esquemas JSON precisos.
+TestMint.ai es un microservicio diseñado para generar **casos de prueba estructurados** automáticamente a partir de **Historias de Usuario (User Stories)** utilizando Inteligencia Artificial (OpenAI) integrada con `instructor` para forzar esquemas JSON precisos.
 
 ## Arquitectura del Proyecto
 
